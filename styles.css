@@ -1,0 +1,59 @@
+
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul {
+    margin-left: 40px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.hobby-img {
+    width: 300px;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #ffffff;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px;
+}
+
+.country-img {
+    width: 150px;
+    border-radius: 8px;
+}
+
+a {
+    color: #0000ee;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4500;
+}
